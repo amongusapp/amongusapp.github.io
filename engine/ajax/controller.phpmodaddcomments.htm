@@ -1,0 +1,33 @@
+<script>
+var form = document.getElementById('dle-comments-form');
+
+ DLEalert('Your user session has expired. Please, refresh the page and log in if necessary.<br /><br />The text of your comment is too short and does not have useful information according to administration\'s judgment.<br /><br />Article ID is not set.<br /><br />Checking that you are not a robot has not been passed<br /><br />The "Comments" field is required and cannot be empty.<br /><br />It is prohibited to add comments for this article.', 'Add comment');
+ var timeval = new Date().getTime();
+
+
+		
+	if ( dle_captcha_type == "1" ) {
+		if ( typeof grecaptcha != "undefined"  ) {
+		   grecaptcha.reset();
+		}
+    } else if (dle_captcha_type == "2") {
+		if ( typeof grecaptcha != "undefined"  ) {
+			var recaptcha_public_key = $('#g-recaptcha-response').data('key');
+			grecaptcha.execute(recaptcha_public_key, {action: 'comments'}).then(function(token) {
+			$('#g-recaptcha-response').val(token);
+			});
+		}
+	}
+
+	if ( form.question_answer ) {
+
+	   form.question_answer.value ='';
+       jQuery('#dle-question').text('');
+    }
+
+	if ( document.getElementById('dle-captcha') ) {
+		form.sec_code.value = '';
+		document.getElementById('dle-captcha').innerHTML = '<img src="' + dle_root + 'engine/modules/antibot/antibot.phprand' + timeval + '" width="160" height="80" alt="">';
+	}
+		
+ </script>

@@ -6,10 +6,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Mod",
+        "title":"Maps",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/app/main.html"
+          "https://amongusapp.github.io/maps/651-among-us-map.html"
         ]
       },
       {
@@ -23,7 +23,7 @@
         "title":"Community",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/"
+          "https://amongusapp.github.io/minecraft"
         ]
       }
     ]

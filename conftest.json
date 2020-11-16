@@ -6,10 +6,66 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Maps",
+        "title":"Among Us",
         "provider":"webview",
         "arguments":[
           "https://amongusapp.github.io/maps/651-among-us-map.html"
+        ]
+      },
+      {
+        "title":"Chat",
+        "provider":"webview",
+        "arguments":[
+          "https://amongus.chatbro.com/"
+        ]
+      },
+      {
+        "title":"Mods",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/mods/"
+        ]
+      },
+      {
+        "title":"Maps",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/maps/"
+        ]
+      },
+      {
+        "title":"Skins",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/skins/"
+        ]
+      },
+      {
+        "title":"Seeds",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/seeds/"
+        ]
+      },
+      {
+        "title":"Texture Packs",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/texture-packs/"
+        ]
+      },
+      {
+        "title":"All",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/"
+        ]
+      },
+      {
+        "title":"Community",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/minecraft"
         ]
       },
       {
@@ -20,10 +76,10 @@
         ]
       },
       {
-        "title":"Community",
+        "title":"5 Star",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/minecraft"
+          "https://amongusapp.github.io/app/rate.htm"
         ]
       }
     ]

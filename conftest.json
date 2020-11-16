@@ -9,7 +9,7 @@
         "title":"Among Us",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/maps/651-among-us-map.html"
+          "https://amongusapp.github.io/app/test.html"
         ]
       },
       {

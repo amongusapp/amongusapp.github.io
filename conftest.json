@@ -9,7 +9,7 @@
         "title":"Home",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/app/"
+          "https://amongusapp.github.io/app/test.html"
         ]
       },
       {

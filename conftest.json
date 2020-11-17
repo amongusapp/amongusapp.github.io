@@ -1,29 +1,15 @@
 [
   {
-    "title":"Wordpress Blogs",
+    "title":"To Mine",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Among Us",
+        "title":"Home",
         "provider":"webview",
         "arguments":[
-          "https://www.minecraft.net/marketplace"
-        ]
-      },
-      {
-        "title":"Game",
-        "provider":"webview",
-        "arguments":[
-          "https://previews.customer.envatousercontent.com/files/311996244/index.html"
-        ]
-      },
-      {
-        "title":"Chat",
-        "provider":"webview",
-        "arguments":[
-          "https://amongus.chatbro.com/"
+          "https://amongusapp.github.io/app/"
         ]
       },
       {
@@ -45,13 +31,6 @@
         "provider":"webview",
         "arguments":[
           "https://amongusapp.github.io/skins/"
-        ]
-      },
-      {
-        "title":"Seeds",
-        "provider":"webview",
-        "arguments":[
-          "https://amongusapp.github.io/seeds/"
         ]
       },
       {

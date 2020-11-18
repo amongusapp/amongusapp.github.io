@@ -13,6 +13,13 @@
         ]
       },
       {
+        "title":"Chat",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/minecraft"
+        ]
+      },
+      {
         "title":"Mods",
         "provider":"webview",
         "arguments":[
@@ -45,13 +52,6 @@
         "provider":"webview",
         "arguments":[
           "https://amongusapp.github.io/"
-        ]
-      },
-      {
-        "title":"Community",
-        "provider":"webview",
-        "arguments":[
-          "https://amongusapp.github.io/minecraft"
         ]
       },
       {

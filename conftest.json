@@ -16,7 +16,7 @@
         "title":"Chat",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/app/minecrafttest.html"
+          "https://kiwiirc.com/nextclient/irc.kiwiirc.com/#amongus"
         ]
       },
       {

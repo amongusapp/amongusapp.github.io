@@ -1,6 +1,6 @@
 [
   {
-    "title":"To Main",
+    "title":"Start",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -37,7 +37,7 @@
         "title":"Groups",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/skins/"
+          "https://discord-server.com/tag/among%20us"
         ]
       },
       {

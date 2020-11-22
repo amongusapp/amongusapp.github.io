@@ -13,45 +13,31 @@
         ]
       },
       {
-        "title":"Chat",
+        "title":"For Minecraft",
         "provider":"webview",
         "arguments":[
           "https://kiwiirc.com/nextclient/irc.kiwiirc.com/#amongus"
         ]
       },
       {
-        "title":"Mods",
+        "title":"For Among Us",
         "provider":"webview",
         "arguments":[
           "https://amongusapp.github.io/mods/"
         ]
       },
       {
-        "title":"Maps",
+        "title":"Chat",
         "provider":"webview",
         "arguments":[
           "https://amongusapp.github.io/maps/"
         ]
       },
       {
-        "title":"Skins",
+        "title":"Groups",
         "provider":"webview",
         "arguments":[
           "https://amongusapp.github.io/skins/"
-        ]
-      },
-      {
-        "title":"Texture Packs",
-        "provider":"webview",
-        "arguments":[
-          "https://amongusapp.github.io/texture-packs/"
-        ]
-      },
-      {
-        "title":"All",
-        "provider":"webview",
-        "arguments":[
-          "https://amongusapp.github.io/"
         ]
       },
       {

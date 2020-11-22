@@ -16,28 +16,28 @@
         "title":"For Minecraft",
         "provider":"webview",
         "arguments":[
-          "https://kiwiirc.com/nextclient/irc.kiwiirc.com/#amongus"
+          "https://amongusapp.github.io/maps/651-among-us-map.html"
         ]
       },
       {
         "title":"For Among Us",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/mods/"
+          "https://amongusapp.github.io/soon/"
         ]
       },
       {
         "title":"Chat",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/maps/"
+          "https://amongusapp.github.io/soon/"
         ]
       },
       {
         "title":"Groups",
         "provider":"webview",
         "arguments":[
-          "https://discord-server.com/tag/among%20us"
+          "https://discord-server.com/tag/among%20us?language=us&page=1&rowsOnPage=50&sort=popular&tag=among%20us"
         ]
       },
       {

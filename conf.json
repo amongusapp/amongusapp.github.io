@@ -1,57 +1,43 @@
 [
   {
-    "title":"To Main",
+    "title":"Start",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Home",
+        "title":"Start",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/app/"
+          "https://amongusapp.github.io/mainapp"
+        ]
+      },
+      {
+        "title":"For Minecraft",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/maps/651-among-us-map.html"
+        ]
+      },
+      {
+        "title":"For Among Us",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/soon/"
         ]
       },
       {
         "title":"Chat",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/minecraft"
+          "https://amongusapp.github.io/soon/"
         ]
       },
       {
-        "title":"Mods",
+        "title":"Groups",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/mods/"
-        ]
-      },
-      {
-        "title":"Maps",
-        "provider":"webview",
-        "arguments":[
-          "https://amongusapp.github.io/maps/"
-        ]
-      },
-      {
-        "title":"Skins",
-        "provider":"webview",
-        "arguments":[
-          "https://amongusapp.github.io/skins/"
-        ]
-      },
-      {
-        "title":"Texture Packs",
-        "provider":"webview",
-        "arguments":[
-          "https://amongusapp.github.io/texture-packs/"
-        ]
-      },
-      {
-        "title":"All",
-        "provider":"webview",
-        "arguments":[
-          "https://amongusapp.github.io/"
+          "https://discord-server.com/tag/among%20us?language=us&page=1&rowsOnPage=50&sort=popular&tag=among%20us"
         ]
       },
       {

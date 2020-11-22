@@ -13,7 +13,7 @@
         ]
       },
       {
-        "title":"For Minecraft",
+        "title":"For MCPE",
         "provider":"webview",
         "arguments":[
           "https://amongusapp.github.io/maps/651-among-us-map.html"

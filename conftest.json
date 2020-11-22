@@ -9,14 +9,14 @@
         "title":"Start",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/mainapp"
+          "https://amongusapp.github.io/mainapp/indextest.html"
         ]
       },
       {
         "title":"For Minecraft",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/maps/651-among-us-map.html"
+          "https://amongusapp.github.io/fangame/"
         ]
       },
       {

@@ -6,10 +6,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Home",
+        "title":"Start",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/app/test.html"
+          "https://amongusapp.github.io/mainapp"
         ]
       },
       {

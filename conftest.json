@@ -9,21 +9,35 @@
         "title":"Start",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/mainapp/indextest.html"
+          "https://amongusapp.github.io/mainapp/"
         ]
       },
       {
-        "title":"For MCPE",
+        "title":"Maps",
         "provider":"webview",
         "arguments":[
-          "http://f92264wz.beget.tech/2.html"
+          "https://amongusapp.github.io/maps/"
         ]
       },
       {
-        "title":"For Among Us",
+        "title":"Mods",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/soon/"
+          "https://amongusapp.github.io/mods/"
+        ]
+      },
+      {
+        "title":"Texture Packs",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/texture-packs/"
+        ]
+      },
+      {
+        "title":"All",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/"
         ]
       },
       {

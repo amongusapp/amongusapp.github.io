@@ -65,7 +65,7 @@
         "title":"5 Star",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/app/rate.htm"
+          "https://amongusapp.github.io/mainapp/rate.html"
         ]
       }
     ]

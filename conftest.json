@@ -9,14 +9,14 @@
         "title":"Start",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/mainapp/"
+          "http://f92264wz.beget.tech/"
         ]
       },
       {
         "title":"Maps",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/maps/"
+          "http://f92264wz.beget.tech/"
         ]
       },
       {

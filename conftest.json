@@ -9,7 +9,7 @@
         "title":"Start",
         "provider":"webview",
         "arguments":[
-          "https://kiwiirc.com/client/irc.kiwiirc.com/?nick=Guest|?#chat"
+          "https://kiwiirc.com/client/irc.kiwiirc.com/?nick=Guest|?#adminchat"
         ]
       },
       {

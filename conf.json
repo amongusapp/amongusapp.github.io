@@ -44,7 +44,7 @@
         "title":"Chat",
         "provider":"webview",
         "arguments":[
-          "https://amongusapp.github.io/soon/"
+          "https://kiwiirc.com/client/irc.kiwiirc.com/?nick=Guest|?#adminchat"
         ]
       },
       {
